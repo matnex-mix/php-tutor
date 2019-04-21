@@ -1,0 +1,25 @@
+
+	MJM PHP TUTORIAL COURSE OUTLINE
+-----------------------------------------------
+
+1. --- Introduction to PHP
+2. --- Getting Ready For PHP
+3. --- Familiarization with XAMPP environment
+4. --- First PHP program
+5. --- Data types, Variable Definition & Type Casting
+6. --- Variable Scoping and Comments
+7. --- Identifiers, Literals, Operators & Separators
+8. --- Decision-making
+9. --- Loops
+10. --- Explore built-in functions
+11. --- Classes and Functions
+12. --- PHP Form Handling
+13. --- PHP-Mysql working with Database
+14. --- PHP Working with Files & FTP
+15. --- Using SPHP
+16. --- Libraries and Packages
+17. --- Exception Handling
+18. --- PHP Websockets
+19. --- Security Implementations
+20. --- PHP Multithreading with pthreads
+21. --- PHP GTK
